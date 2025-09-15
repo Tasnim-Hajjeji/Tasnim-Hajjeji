@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasnim-hajjeji&label=Profile%20views&color=0e75b6&style=flat" alt="tasnim-hajjeji" /> </p>
 
-- 🌱 I’m currently learning **VueJs and more**
+- 🌱 I’m currently learning **ReactJS and more**
 
 - 📫 How to reach me **hajjeji.tasnim@gmail.com**
 
